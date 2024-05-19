@@ -1,0 +1,7 @@
+Site:
+
+https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+
+Arduino IDE link:
+
+https://espressif.github.io/arduino-esp32/package_esp32_index.json
